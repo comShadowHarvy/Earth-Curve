@@ -128,7 +128,7 @@ At $10\text{ miles}$, the 8 in/mi² naive formula claims $66.7\text{ ft}$ is hid
 
 ### 🌐 1. Live Web Application (GitHub Pages)
 Visit the live deployed site in any modern browser:
-👉 **[https://comshadowharvy.github.io/earth-curve/](https://comshadowharvy.github.io/earth-curve/)**
+👉 **[https://comshadowharvy.github.io/Earth-Curve/](https://comshadowharvy.github.io/Earth-Curve/)**
 
 ---
 
